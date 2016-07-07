@@ -1,0 +1,9 @@
+To compile:
+
+javac reflection\*.java
+
+To run:
+
+java reflection.TestClass
+
+Careful! Don't get . and \ mixed up when working with packages.
