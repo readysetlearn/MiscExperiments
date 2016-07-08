@@ -1,9 +1,11 @@
 To compile:
 
-javac reflection\*.java
+javac -cp .;C:\JUNIT\junit-4.10.jar reflection\*.java
 
 To run:
 
-java reflection.ShortSentence
+java -cp .;C:\JUNIT\junit-4.10.jar reflection.ShortSentence
+
+NOTE: replace "C:\JUNIT\junit-4.10.jar" with wherever JUnit is saved.
 
 Careful! Don't get . and \ mixed up when working with packages.
