@@ -1,6 +1,6 @@
 package reflection;
 
-public class TestClass {
+public class ShortSentence {
 
 
     public static void main(String[] args) {

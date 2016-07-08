@@ -4,6 +4,6 @@ javac reflection\*.java
 
 To run:
 
-java reflection.TestClass
+java reflection.ShortSentence
 
 Careful! Don't get . and \ mixed up when working with packages.
